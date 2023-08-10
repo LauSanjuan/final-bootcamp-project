@@ -1,0 +1,9 @@
+train: ./processed-images-and-labels/train
+val: ./processed-images-and-labels/val
+test:  
+
+names:
+  0: belcebu
+  1: mazapan
+  2: nina
+  3: uxia
